@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "DLPageMenu"
-  s.version      = "1.0.0"
+  s.version      = "1.2.0"
   s.summary      = "Paging through view controllers made easy"
   s.description  = <<-DESC
                           A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)
