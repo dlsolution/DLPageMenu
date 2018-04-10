@@ -1,5 +1,5 @@
 # DLPageMenu
-A paging menu controller built from other view controllers placed inside a scroll view (like Spotify, Windows Phone, Instagram)
+A paging menu controller built from other view controllers placed inside a collection view (like Spotify, Windows Phone, Instagram)
 
 ## Installation
 
